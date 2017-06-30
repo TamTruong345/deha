@@ -11,12 +11,10 @@
 |
 */
 
-Route::get('/welcom', function () {
-    return view('welcome');
-});
-
 Route::get('/', function () {
-    return view('demo');
+    return view('welcom');
 });
 
 Route::resource('customer', 'CustomerController');
+
+Route::resource('template', 'TemplateController');
