@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91d4a3d8-5314-4df2-9c93-4fe323026730" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/.env.example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Console/Kernel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Exceptions/Handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Controllers/Auth/ForgotPasswordController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Controllers/Auth/LoginController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Controllers/Auth/RegisterController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Controllers/Auth/ResetPasswordController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Controllers/Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Kernel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Middleware/EncryptCookies.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Middleware/TrimStrings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Http/Middleware/VerifyCsrfToken.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Providers/AppServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Providers/AuthServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Providers/BroadcastServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Providers/EventServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/Providers/RouteServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/app/User.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/artisan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/bootstrap/app.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/bootstrap/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/bootstrap/cache/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/app.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/broadcasting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/database.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/filesystems.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/queue.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/services.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/config/view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/database/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/database/factories/ModelFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/database/seeds/DatabaseSeeder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/public/web.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/assets/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/assets/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/assets/js/components/Example.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/assets/sass/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/assets/sass/app.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/lang/en/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/lang/en/pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/lang/en/passwords.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/lang/en/validation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/resources/views/welcome.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/routes/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/routes/channels.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/routes/console.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/routes/web.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/app/public/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/framework/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/framework/cache/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/framework/sessions/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/framework/testing/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/framework/views/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/storage/logs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/tests/CreatesApplication.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/tests/Feature/ExampleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/tests/TestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/tests/Unit/ExampleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/webpack.mix.js" afterPath="" />
+    </list>
+    <ignored path="dehamailer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dehamailer" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dehamailer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dehamailer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dehamailer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dehamailer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91d4a3d8-5314-4df2-9c93-4fe323026730" name="Default" comment="" />
+      <created>1498790747087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498790747087</updated>
+      <workItem from="1498790748875" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="980" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
