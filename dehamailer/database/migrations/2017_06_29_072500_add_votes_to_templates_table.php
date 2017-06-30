@@ -14,10 +14,10 @@ class AddVotesToTemplatesTable extends Migration
     public function up()
     {
         Schema::table('templates', function (Blueprint $table) {
-            $table->string('templates_title');
+            $table->string('templates_subject');
             $table->string('templates_content');
             $table->string('templates_file');
-            $table->string('templates_attach');
+            $table->string('templates_attachment');
             $table->string('templates_mail_cc');
             $table->string('templates_status');
             $table->integer('templates_deleted');
