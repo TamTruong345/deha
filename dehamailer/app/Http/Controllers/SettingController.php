@@ -8,14 +8,14 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Support\Facades\DB;
 
-class TemplateController extends Controller
+class SettingController extends Controller
 {
 	/*
-	 * Display a listing of templates.
+	 * Display a listing of setting.
 	 *
 	 * @return Response
 	 */
 	public function index() {
-		return view('templates.index');
+		return view('setting');
 	}
 }
