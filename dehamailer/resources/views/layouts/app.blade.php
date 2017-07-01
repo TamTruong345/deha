@@ -46,7 +46,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="waves-effect  waves-light">
+                        <a href="/setting" class="waves-effect  waves-light">
                             <span class="s-icon"><i class="ti-settings"></i></span>
                             <span class="s-text">Setting</span>
                         </a>

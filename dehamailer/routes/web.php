@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::resource('customer', 'CustomerController');
 
 Route::resource('template', 'TemplateController');
+
+Route::resource('setting', 'SettingController');
