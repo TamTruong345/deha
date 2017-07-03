@@ -16,7 +16,7 @@ class CustomerController extends Controller
 	 * @return Response
 	 */
 	public function index() {
-		$customers = DB::table('customers')->get();
-		return view('customers.index', array('customers' => $customers));
+		/*$customers = DB::table('customers')->get();*/
+		return view('customers.master');
 	}
 }
