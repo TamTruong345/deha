@@ -14,7 +14,7 @@ class CreateTemplatesTable extends Migration
     public function up()
     {
         Schema::create('templates', function (Blueprint $table) {
-            $table->increments('templates_id');
+            $table->increments('template_id');
             $table->timestamps();
         });
     }

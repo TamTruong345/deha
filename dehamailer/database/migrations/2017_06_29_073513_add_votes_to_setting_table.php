@@ -14,15 +14,15 @@ class AddVotesToSettingTable extends Migration
     public function up()
     {
         Schema::table('setting', function (Blueprint $table) {
-            $table->string('setting_host');
-            $table->string('setting_port');
-            $table->string('setting_username');
-            $table->string('setting_mail_send');
-            $table->string('setting_password');
-            $table->string('setting_reply_to');
-            $table->string('setting_mail_per_day');
-            $table->string('setting_time_interval');
-            $table->integer('setting_deleted');
+            $table->string('setting_host')->nullable();
+            $table->string('setting_port')->nullable();
+            $table->string('setting_username')->nullable();
+            $table->string('setting_mail_send')->nullable();
+            $table->string('setting_password')->nullable();
+            $table->string('setting_reply_to')->nullable();
+            $table->string('setting_mail_per_day')->nullable();
+            $table->string('setting_time_interval')->nullable();
+            $table->integer('setting_deleted')->nullable();
         });
     }
 
