@@ -14,11 +14,11 @@ class AddVotesToCustomersTable extends Migration
     public function up()
     {
         Schema::table('customers', function (Blueprint $table) {
-            $table->string('customers_name');
-            $table->string('customers_full_name');
-            $table->string('customers_mail');
-            $table->string('customers_last_sent_mail');
-            $table->integer('customers_deleted');
+            $table->string('customer_name')->nullable();
+            $table->string('customer_full_name')->nullable();
+            $table->string('customer_mail')->nullable();
+            $table->string('customer_last_sent_mail')->nullable();
+            $table->integer('customer_deleted')->nullable();
         });
     }
 
